@@ -12,18 +12,18 @@ function App() {
             <div>
                 <ul className="flex items-center gap-7 font-medium">
                     <img src={logo} alt="Company Logo" />
-                    <li><a href="#" className="text-[#33A137]">BUY <i className="fa-solid fa-greater-than"></i></a></li>
-                    <li><a href="#" className="text-black">Homes</a></li>
-                    <li><a href="#">Commercial</a></li>
-                    <li><a href="#">Plots</a></li>
+                    <li><a href="" className="text-[#33A137]">BUY <i className="fa-solid fa-greater-than"></i></a></li>
+                    <li><a href="" className="text-black">Homes</a></li>
+                    <li><a href="">Commercial</a></li>
+                    <li><a href="">Plots</a></li>
                     <li className="text-slate-200">|</li>
-                    <li><a href="#">Rent</a></li>
+                    <li><a href="">Rent</a></li>
                     <li className="text-slate-200">|</li>
-                    <li><a href="#">New Projects</a></li>
+                    <li><a href="">New Projects</a></li>
                     <li className="text-slate-200">|</li>
-                    <li><a href="#">Agents</a></li>
+                    <li><a href="">Agents</a></li>
                     <li className="text-slate-200">|</li>
-                    <li><a href="#">More <i className="fa-solid fa-greater-than rotate-90"></i></a></li>
+                    <li><a href="">More <i className="fa-solid fa-greater-than rotate-90"></i></a></li>
                 </ul>
             </div>
             <div className="flex gap-4">
