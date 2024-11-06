@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Hammari-Chahht/static/css/main.2433ad54.css",
+    "main.js": "/Hammari-Chahht/static/js/main.9369e1f2.js",
+    "static/js/453.fa647640.chunk.js": "/Hammari-Chahht/static/js/453.fa647640.chunk.js",
+    "static/media/CompanyLogo.svg": "/Hammari-Chahht/static/media/CompanyLogo.9f32f8dc46f4fa45c91bc7f52af456ac.svg",
+    "index.html": "/Hammari-Chahht/index.html",
+    "main.2433ad54.css.map": "/Hammari-Chahht/static/css/main.2433ad54.css.map",
+    "main.9369e1f2.js.map": "/Hammari-Chahht/static/js/main.9369e1f2.js.map",
+    "453.fa647640.chunk.js.map": "/Hammari-Chahht/static/js/453.fa647640.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2433ad54.css",
+    "static/js/main.9369e1f2.js"
+  ]
+}
