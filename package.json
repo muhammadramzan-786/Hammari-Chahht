@@ -18,7 +18,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "watch:tailwind": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch",
+    "dev": "concurrently \"npm run watch:tailwind\" \"npm start\""
   },
   "eslintConfig": {
     "extends": [
@@ -39,7 +41,10 @@
     ]
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "concurrently": "^9.1.0",
     "gh-pages": "^6.2.0",
+    "postcss-cli": "^11.0.0",
     "tailwindcss": "^3.4.14"
   }
 }
