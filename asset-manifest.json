@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Hammari-Chahht/static/css/main.753b6ffd.css",
-    "main.js": "/Hammari-Chahht/static/js/main.63b0715a.js",
+    "main.css": "/Hammari-Chahht/static/css/main.c923ca31.css",
+    "main.js": "/Hammari-Chahht/static/js/main.f79fdbd3.js",
     "static/js/453.d40e916d.chunk.js": "/Hammari-Chahht/static/js/453.d40e916d.chunk.js",
     "static/media/indexPageBanner.svg": "/Hammari-Chahht/static/media/indexPageBanner.746a98c13d2c5d029d4a36d235302c94.svg",
     "static/media/CompanyLogo.svg": "/Hammari-Chahht/static/media/CompanyLogo.9f32f8dc46f4fa45c91bc7f52af456ac.svg",
+    "static/media/hamburger.svg": "/Hammari-Chahht/static/media/hamburger.d67209f7cdd21de4813b9983ff49d215.svg",
     "index.html": "/Hammari-Chahht/index.html",
-    "main.753b6ffd.css.map": "/Hammari-Chahht/static/css/main.753b6ffd.css.map",
-    "main.63b0715a.js.map": "/Hammari-Chahht/static/js/main.63b0715a.js.map",
+    "main.c923ca31.css.map": "/Hammari-Chahht/static/css/main.c923ca31.css.map",
+    "main.f79fdbd3.js.map": "/Hammari-Chahht/static/js/main.f79fdbd3.js.map",
     "453.d40e916d.chunk.js.map": "/Hammari-Chahht/static/js/453.d40e916d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.753b6ffd.css",
-    "static/js/main.63b0715a.js"
+    "static/css/main.c923ca31.css",
+    "static/js/main.f79fdbd3.js"
   ]
 }
